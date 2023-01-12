@@ -1,0 +1,215 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.dıkdortgen {
+  width: 350px;
+  height: 88px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.birdiv {
+  width: 350px;
+  height: 88px;
+  background: rgba(17,154,121,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.ikidiv {
+  width: 141px;
+  height: 78px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 4px;
+  left: 202px;
+  overflow: hidden;
+}
+.homename {
+  width: 131px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 41px;
+  left: 0px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 12px;
+  opacity: 1;
+  text-align: right;
+  overflow: hidden; 
+  white-space: nowrap; 
+  text-overflow: ellipsis;
+}
+.homescore {
+  width: 24px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 16px;
+  left: 4px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 14px;
+  opacity: 1;
+  text-align: right;
+}
+.home {
+  width: 38px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 0px;
+  left: 91px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 12px;
+  opacity: 1;
+  text-align: right;
+}
+.home3 {
+  width: 44px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 56px;
+  left: 43px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: right;
+}
+.icon1 {
+  width: 25px;
+  height: 25px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 11px;
+  left: 53px;
+  border-radius: 50%;
+}
+.div3 {
+  width: 149px;
+  height: 78px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  overflow: hidden;
+}
+.visitor3 {
+  width: 44px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 56px;
+  left: 45px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: right;
+}
+.visitorname {
+  width: 137px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 41px;
+  left: 12px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 12px;
+  opacity: 1;
+  text-align: left;
+  overflow: hidden; 
+  white-space: nowrap; 
+  text-overflow: ellipsis;
+}
+.visitorscore {
+  width: 25px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 16px;
+  left: 99px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 14px;
+  opacity: 1;
+  text-align: right;
+}
+.visitor {
+  width: 41px;
+  color: rgba(255,255,255,1);
+  position: relative;
+  top: -5px;
+  left: -50px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 10px;
+  opacity: 1;
+  text-align: right;
+}
+.icon2 {
+  width: 25px;
+  height: 25px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 11px;
+  left: 55px;
+  border-radius: 50%;
+}
+.div4 {
+  width: 66px;
+  height: 36px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  left: 133px;
+  overflow: hidden;
+}
+ul {
+  list-style-type: none;
+  padding: 0px;
+  margin-right: 15px;
+}
+.saat {
+  width: 66px;
+  color: rgba(255,255,255,1);
+  position: relative;
+  top: 0px;
+  left: 0px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 10px;
+  opacity: 1;
+  text-align: right;
+}
+.tire {
+  width: 10px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 12px;
+  left: 28px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: right;
+}

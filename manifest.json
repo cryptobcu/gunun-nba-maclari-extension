@@ -1,0 +1,16 @@
+{
+    "name": "Günün NBA Maçları",
+    "version": "1.0.0",
+    "description": "Tek tıkla bugünün nba maçlarını ve sonuçlarını görebilirsiniz",
+    "manifest_version": 3,
+    "icons": {
+        "16": "ball.ico"
+    },
+    "author": "Bekir U",
+    "permissions": ["activeTab", "scripting"],
+    "action": {
+        "default_popup": "popup.html",
+        "default_title": "Günün NBA Maçları",
+        "default_icon": "ball.ico"
+    }
+}
